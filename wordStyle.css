@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #B9B7BD;
+}
+
+.container {
+    width: 415px;
+    height: 530px;
+    background-color: #868B8E;
+    margin: 100px auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.textarea {
+
+    margin: 10px 15px;
+    overflow: scroll;
+}
+
+button[type="button"] {
+    padding: 8px;
+    margin-left: 140px;
+    background-color: #B9B7BD;
+    color: white;
+    border: 1px solid #B9B7BD;
+    border-radius: 5px;
+}
+#result{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+}
